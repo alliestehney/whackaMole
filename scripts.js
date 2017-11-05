@@ -23,7 +23,7 @@ var mole20 = document.getElementById("20");
 
 // NEW WAY //
 
-var allMoles = [mole1, mole2, mole3, mole4, mole5, mole6, mole7, mole8, mole9, mole10, mole12, mole13, mole14, mole15, mole16, mole17, mole18, mole19, mole20];
+var allMoles = [mole1, mole2, mole3, mole4, mole5, mole6, mole7, mole8, mole9, mole10, mole11, mole12, mole13, mole14, mole15, mole16, mole17, mole18, mole19, mole20];
 var evenMoles = [];
 var oddMoles = [];
 
